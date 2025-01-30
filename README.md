@@ -1,4 +1,4 @@
-# Austin Coffee Shop Wifi
+# Austin Coffee Shop Wifi :coffee:
 Wifi passwords for coffee shops &amp; hangout spots in Austin, TX.
 
 ## Passwords
